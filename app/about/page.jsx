@@ -1,4 +1,4 @@
-import Image from 'next/image'
+import Image from "next/image"
 import { TbArrowUpRight } from "react-icons/tb"
 export default function About() {
     return (
