@@ -70,16 +70,7 @@ Do create a detail form like this to get client brief and requirement
                                 </p>
                             </div>
                         </div>
-                        <div className="border-2 border-gray-500 ">
-                            <div className="-m-0.5 p-4 text-center transition hover:-translate-y-3 hover:-translate-x-3 aspect-square bg-zinc-100 ">
-                                <Image src="/image/" width={200} height={200} alt="" className="mx-auto rounded-full " />
-                                <h2 className="py-4 text-2xl font-semibold " >IT Manager</h2>
-                                <h2 className="py-4 text-sm font-semibold " >RISHABH VISHWAKARMA</h2>
-                                <p className="text-sm text-gray-400">
-                                    Managing IT at Vishal interiors to downtime the cases with technology and help the business with IT inventation.
-                                </p>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
