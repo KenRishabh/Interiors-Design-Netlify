@@ -1,4 +1,2 @@
 [build]
- base = "HeroSection.jsx"
- command = "npm run build"
- 
+    functions = "functions"
