@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to = "components/HeroSection.jsx"
+to = "/HeroSection.jsx"
 status = 200
