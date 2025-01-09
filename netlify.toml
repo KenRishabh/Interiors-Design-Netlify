@@ -1,3 +1,4 @@
-[build]
-    functions = "functions"
-    
+[[redirects]]
+from = "/*"
+to = "components/HeroSection.jsx"
+status = 200
