@@ -1,4 +1,9 @@
-[[redirects]]
-from = "/*"
-to = "/index.html"
-status = 200
+[build]
+  command = "npm run build" # Replace with your actual build command
+  publish = "components" # Replace with the directory containing your built files
+
+  # Example of using caching
+  cache = [
+    "node_modules",
+    "package-lock.json",
+  ]
