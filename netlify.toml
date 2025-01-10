@@ -1,6 +1,6 @@
 [build]
-  command = "npm run build" # Replace with your actual build command
-  publish = "components" # Replace with the directory containing your built files
+  command = "npm run dev && yarn dev && pnpm dev" # Replace with your actual build command
+  publish = "components/HeroSection.jsx" # Replace with the directory containing your built files
 
   # Example of using caching
   cache = [
