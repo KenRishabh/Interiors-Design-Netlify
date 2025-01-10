@@ -35,6 +35,6 @@
     "lint": "next lint",
     "predeploy": "yarn build && cp build/HeroSection.jsx build/404.html",
     "deploy": "gh-pages -d build"
-  }
+  },
 
 }
