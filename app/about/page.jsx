@@ -28,9 +28,9 @@ Founded in 1993, Vishal Interiors has specialized in providing exceptional inter
 
                             1. Space Planning: Efficient layouts tailored to clients' needs.<br />
 2. Custom Interior Design: Creating personalized and aesthetic spaces.<br />
-3. Furniture Design & Customization: Tailored, functional, and stylish furniture solutions.<br />
-4. Lighting & Color Schemes: Expert selection to enhance ambiance.<br />
-5. Renovation & Refurbishment: Transforming existing spaces with a modern touch.<br />
+3. Furniture Design and Customization: Tailored, functional, and stylish furniture solutions.<br />
+4. Lighting and Color Schemes: Expert selection to enhance ambiance.<br />
+5. Renovation and Refurbishment: Transforming existing spaces with a modern touch.<br />
 6. 3D Visualization: Bringing design concepts to life for better planning.<br />
 <br />
 
