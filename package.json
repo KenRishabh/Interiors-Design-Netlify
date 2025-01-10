@@ -33,7 +33,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "predeploy": "yarn build && cp build/HeroSection.jsx build/404.html",
+    "predeploy": "yarn build && cp build/index.html build/404.html",
     "deploy": "gh-pages -d build",
   },
 
