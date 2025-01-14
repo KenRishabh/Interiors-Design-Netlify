@@ -1,5 +1,5 @@
 [build]
-  command = "npm run dev && yarn dev && pnpm dev" # Replace with your actual build command
+  command = "npm run build" # Replace with your actual build command
   publish = "netlify.toml" # Replace with the directory containing your built files
 
   # Example of using caching
