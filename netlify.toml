@@ -1,9 +1,12 @@
 [build]
-  command = "npm run build" # Replace with your actual build command
-  publish = "netlify.toml" # Replace with the directory containing your built files
+  command = "next build && next export"
+  publish = "out"
+
 
   # Example of using caching
   cache = [
     "node_modules",
     "package-lock.json",
   ]
+
+
