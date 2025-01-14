@@ -21,22 +21,14 @@ export default function About() {
                     <div className="">
                         <p className="pb-8 tracking-wide">
                         Vishal Interiors – Specialized Interior Services Since 1993
-Founded in 1993, Vishal Interiors has specialized in providing exceptional interior design services for residential, commercial, and industrial spaces. Key offerings include:
-
-                            <br />
-                            <br />
-
-                            1. Space Planning: Efficient layouts tailored to clients' needs.<br />
-2. Custom Interior Design: Creating personalized and aesthetic spaces.<br />
-3. Furniture Design and Customization: Tailored, functional, and stylish furniture solutions.<br />
-4. Lighting and Color Schemes: Expert selection to enhance ambiance.<br />
-5. Renovation and Refurbishment: Transforming existing spaces with a modern touch.<br />
-6. 3D Visualization: Bringing design concepts to life for better planning.<br />
-<br />
-
-Do create a detail form like this to get client brief and requirement
-
-                            <br />
+Founded in 1993, Vishal Interiors has specialized in providing exceptional interior design services for residential, commercial, and industrial spaces. Key offerings include: <br />
+                            <br />1. Space Planning: Efficient layouts tailored to clients needs. <br />
+2. Custom Interior Design: Creating personalized and aesthetic spaces. <br />
+3. Furniture Design and Customization: Tailored, functional, and stylish furniture solutions. <br />
+4. Lighting and Color Schemes: Expert selection to enhance ambiance. <br />
+5. Renovation and Refurbishment: Transforming existing spaces with a modern touch. <br />
+6. 3D Visualization: Bringing design concepts to life for better planning. <br />
+<br /> Do create a detail form like this to get client brief and requirement <br />
                             <br />
                             <span className="text-xl font-extrabold tracking-tight">With a focus on quality, innovation, and customer satisfaction, Vishal Interiors continues to redefine spaces.</span>
                         </p>
