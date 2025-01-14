@@ -1,5 +1,5 @@
 [build]
-  command = "yarn nx run"
+  command = "npm run dev && yarn dev && pnpm dev && npm run build"
   publish = "build"
 
 
