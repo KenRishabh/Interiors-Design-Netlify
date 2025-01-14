@@ -10,46 +10,46 @@ export default function Gallery() {
 
             <div class="flex flex-col gap-4">
                 <div>
-                    <next/image class="h-auto max-w-full rounded-lg" src="/image/badroom1.jpg" alt="" />
+                    <img class="h-auto max-w-full rounded-lg" src="/image/badroom1.jpg" alt="" />
                 </div>
                 <div>
-                    <next/image class="h-auto max-w-full rounded-lg" src="/image/gallery2.jpg" alt="" />
+                    <img  class="h-auto max-w-full rounded-lg" src="/image/gallery2.jpg" alt="" />
                 </div>
                 <div>
-                    <next/image class="h-auto max-w-full rounded-lg" src="/image/gallery.jpg" alt="" />
-                </div>
-            </div>
-            <div class="flex flex-col gap-4">
-                <div>
-                    <next/image class="h-auto max-w-full rounded-lg" src="/image/swipe1.jpg" alt="" />
-                </div>
-                <div>
-                    <next/image class="h-auto max-w-full rounded-lg" src="/image/gallery111.jpg" alt="" />
-                </div>
-                <div>
-                    <next/image class="h-auto max-w-full rounded-lg" src="/image/living1.jpg" alt="" />
+                    <img  class="h-auto max-w-full rounded-lg" src="/image/gallery.jpg" alt="" />
                 </div>
             </div>
             <div class="flex flex-col gap-4">
                 <div>
-                    <next/image class="h-auto max-w-full rounded-lg" src="/image/gallery14.jpg" alt="" />
+                    <img  class="h-auto max-w-full rounded-lg" src="/image/swipe1.jpg" alt="" />
                 </div>
                 <div>
-                    <next/image class="h-auto max-w-full rounded-lg" src="/image/gallery15.jpg" alt="" />
+                    <img  class="h-auto max-w-full rounded-lg" src="/image/gallery111.jpg" alt="" />
                 </div>
                 <div>
-                    <next/image class="h-auto max-w-full rounded-lg" src="/image/gallery12.jpg" alt="" />
+                    <img  class="h-auto max-w-full rounded-lg" src="/image/living1.jpg" alt="" />
                 </div>
             </div>
             <div class="flex flex-col gap-4">
                 <div>
-                    <next/image class="h-auto max-w-full rounded-lg" src="/image/gallery7.jpg" alt="" />
+                    <img  class="h-auto max-w-full rounded-lg" src="/image/gallery14.jpg" alt="" />
                 </div>
                 <div>
-                    <next/image class="h-auto max-w-full rounded-lg" src="/image/gallery11.jpg" alt="" />
+                    <img  class="h-auto max-w-full rounded-lg" src="/image/gallery15.jpg" alt="" />
                 </div>
                 <div>
-                    <next/image class="h-auto max-w-full rounded-lg" src="/image/gallery3.jpg" alt="" />
+                    <img  class="h-auto max-w-full rounded-lg" src="/image/gallery12.jpg" alt="" />
+                </div>
+            </div>
+            <div class="flex flex-col gap-4">
+                <div>
+                    <img  class="h-auto max-w-full rounded-lg" src="/image/gallery7.jpg" alt="" />
+                </div>
+                <div>
+                    <img  class="h-auto max-w-full rounded-lg" src="/image/gallery11.jpg" alt="" />
+                </div>
+                <div>
+                    <img  class="h-auto max-w-full rounded-lg" src="/image/gallery3.jpg" alt="" />
                 </div>
             </div>
         </div>
