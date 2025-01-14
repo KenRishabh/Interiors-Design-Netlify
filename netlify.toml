@@ -1,6 +1,6 @@
 [build]
-  command = "npm audit fix --force"
-  publish = "out"
+  command = "npm run build"
+  publish = "build"
 
 
   # Example of using caching
