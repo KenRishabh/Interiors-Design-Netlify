@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "npm run dev",
-    "build": "npm install node-sass",
+    "dev": "next dev",
+    "build": "npm run build",
     "start": "npm start",
     "lint": "npm lint"
   },
