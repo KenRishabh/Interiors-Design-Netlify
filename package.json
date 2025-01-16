@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run clean && npm run build:js && npm run build:css",
+    "build": "webpack --config webpack.config.js",
     "start": "npm install && yarn install",
     "lint": "npm lint",
     "clean": "rimraf dist"
